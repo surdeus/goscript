@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mattn/anko/env"
-	"github.com/mattn/anko/vm"
+	"github.com/surdeus/anko/env"
+	"github.com/surdeus/anko/vm"
 )
 
 func Example_vmFunctions() {

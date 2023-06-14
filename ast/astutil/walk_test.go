@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mattn/anko/ast"
-	"github.com/mattn/anko/parser"
+	"github.com/surdeus/anko/ast"
+	"github.com/surdeus/anko/parser"
 )
 
 const (
