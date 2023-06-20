@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/surdeus/anko/ast"
-	"github.com/surdeus/anko/env"
+	"github.com/surdeus/goscript/ast"
+	"github.com/surdeus/goscript/env"
 )
 
 // Options provides options to run VM with

@@ -2,7 +2,7 @@
 package parser
 
 import (
-	"github.com/surdeus/anko/ast"
+	"github.com/surdeus/goscript/ast"
 )
 
 %}

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/surdeus/anko/ast"
+	"github.com/surdeus/goscript/ast"
 )
 
 // invokeOperator evaluates one Operator.

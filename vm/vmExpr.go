@@ -3,8 +3,8 @@ package vm
 import (
 	"reflect"
 
-	"github.com/surdeus/anko/ast"
-	"github.com/surdeus/anko/env"
+	"github.com/surdeus/goscript/ast"
+	"github.com/surdeus/goscript/env"
 )
 
 // invokeExpr evaluates one expression.

@@ -3,13 +3,13 @@ package vm_test
 import (
 	"log"
 
-	"github.com/surdeus/anko/env"
-	_ "github.com/surdeus/anko/packages"
-	"github.com/surdeus/anko/vm"
+	"github.com/surdeus/goscript/env"
+	_ "github.com/surdeus/goscript/packages"
+	"github.com/surdeus/goscript/vm"
 )
 
 func Example_vmSort() {
-	// _ "github.com/surdeus/anko/packages"
+	// _ "github.com/surdeus/goscript/packages"
 
 	e := env.NewEnv()
 
@@ -35,7 +35,7 @@ fmt.Println(a)
 }
 
 func Example_vmRegexp() {
-	// _ "github.com/surdeus/anko/packages"
+	// _ "github.com/surdeus/goscript/packages"
 
 	e := env.NewEnv()
 
@@ -79,7 +79,7 @@ fmt.Println(result)
 }
 
 func Example_vmHttp() {
-	// _ "github.com/surdeus/anko/packages"
+	// _ "github.com/surdeus/goscript/packages"
 
 	e := env.NewEnv()
 

@@ -8,7 +8,7 @@ import __yyfmt__ "fmt"
 //line parser.go.y:2
 
 import (
-	"github.com/surdeus/anko/ast"
+	"github.com/surdeus/goscript/ast"
 )
 
 //line parser.go.y:45

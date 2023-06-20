@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/surdeus/anko/env"
+	"github.com/surdeus/goscript/env"
 )
 
 func init() {

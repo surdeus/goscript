@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/surdeus/anko/env"
+	"github.com/surdeus/goscript/env"
 )
 
 func timeGo18() {

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/surdeus/anko/env"
+	"github.com/surdeus/goscript/env"
 )
 
 func sortGo18() {

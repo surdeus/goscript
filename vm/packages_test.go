@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/surdeus/anko/env"
-	_ "github.com/surdeus/anko/packages"
+	"github.com/surdeus/goscript/env"
+	_ "github.com/surdeus/goscript/packages"
 )
 
 func TestImport(t *testing.T) {

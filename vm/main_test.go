@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/surdeus/anko/env"
-	"github.com/surdeus/anko/parser"
+	"github.com/surdeus/goscript/env"
+	"github.com/surdeus/goscript/parser"
 )
 
 type (

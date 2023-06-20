@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/surdeus/anko/packages"
-	"github.com/surdeus/anko/vm"
+	"github.com/surdeus/goscript/packages"
+	"github.com/surdeus/goscript/vm"
 )
 
 var testCoreEnvSetupFunc = func(t *testing.T, env corelib.Env) { Import(env.(*vm.Env)) }

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/surdeus/anko/env"
+	"github.com/surdeus/goscript/env"
 )
 
 // ImportToX adds all the toX to the env given

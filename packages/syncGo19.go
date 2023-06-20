@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/surdeus/anko/env"
+	"github.com/surdeus/goscript/env"
 )
 
 func syncGo19() {

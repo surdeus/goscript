@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/surdeus/anko/ast"
-	"github.com/surdeus/anko/env"
-	"github.com/surdeus/anko/parser"
+	"github.com/surdeus/goscript/ast"
+	"github.com/surdeus/goscript/env"
+	"github.com/surdeus/goscript/parser"
 )
 
 // Execute parses script and executes in the specified environment.

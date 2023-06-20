@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/surdeus/anko/env"
+	"github.com/surdeus/goscript/env"
 )
 
 func TestReturns(t *testing.T) {

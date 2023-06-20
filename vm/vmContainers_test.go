@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/surdeus/anko/env"
-	"github.com/surdeus/anko/parser"
+	"github.com/surdeus/goscript/env"
+	"github.com/surdeus/goscript/parser"
 )
 
 func TestSlices(t *testing.T) {

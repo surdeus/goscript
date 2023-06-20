@@ -1,3 +1,3 @@
-module github.com/surdeus/anko
+module github.com/surdeus/goscript
 
 go 1.13

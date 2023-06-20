@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/surdeus/anko/ast"
-	"github.com/surdeus/anko/env"
+	"github.com/surdeus/goscript/ast"
+	"github.com/surdeus/goscript/env"
 )
 
 func TestNumbers(t *testing.T) {

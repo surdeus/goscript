@@ -6,9 +6,9 @@ import (
 	"io/ioutil"
 	"reflect"
 
-	"github.com/surdeus/anko/env"
-	"github.com/surdeus/anko/parser"
-	"github.com/surdeus/anko/vm"
+	"github.com/surdeus/goscript/env"
+	"github.com/surdeus/goscript/parser"
+	"github.com/surdeus/goscript/vm"
 )
 
 // Import defines core language builtins - keys, range, println,  etc.

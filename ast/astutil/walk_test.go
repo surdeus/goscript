@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/surdeus/anko/ast"
-	"github.com/surdeus/anko/parser"
+	"github.com/surdeus/goscript/ast"
+	"github.com/surdeus/goscript/parser"
 )
 
 const (

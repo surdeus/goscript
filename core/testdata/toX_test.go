@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/surdeus/anko/internal/testlib"
+	"github.com/surdeus/goscript/internal/testlib"
 )
 
 func TestToX(t *testing.T) {
