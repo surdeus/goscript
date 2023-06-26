@@ -5,7 +5,7 @@ package vm
 import (
 	"testing"
 
-	_ "github.com/surdeus/goscript/packages"
+	_ "github.com/mojosa-software/goscript/packages"
 )
 
 func TestPackagesStringsGo110(t *testing.T) {

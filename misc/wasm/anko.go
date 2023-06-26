@@ -8,10 +8,10 @@ import (
 	"strings"
 	"syscall/js"
 
-	"github.com/surdeus/goscript/core"
-	"github.com/surdeus/goscript/packages"
-	"github.com/surdeus/goscript/parser"
-	"github.com/surdeus/goscript/vm"
+	"github.com/mojosa-software/goscript/core"
+	"github.com/mojosa-software/goscript/packages"
+	"github.com/mojosa-software/goscript/parser"
+	"github.com/mojosa-software/goscript/vm"
 )
 
 var (

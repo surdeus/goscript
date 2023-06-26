@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/surdeus/goscript/ast"
+	"github.com/mojosa-software/goscript/ast"
 )
 
 // funcExpr creates a function that reflect Call can use.

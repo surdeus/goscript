@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/surdeus/goscript/env"
-	"github.com/surdeus/goscript/vm"
+	"github.com/mojosa-software/goscript/env"
+	"github.com/mojosa-software/goscript/vm"
 )
 
 func Example_vmExecuteContext() {
@@ -54,7 +54,7 @@ println("this line should not be printed")
 }
 
 func Example_vmEnvDefine() {
-	// "github.com/surdeus/goscript/env"
+	// "github.com/mojosa-software/goscript/env"
 
 	e := env.NewEnv()
 
@@ -112,7 +112,7 @@ println(f)
 }
 
 func Example_vmEnv() {
-	// "github.com/surdeus/goscript/env"
+	// "github.com/mojosa-software/goscript/env"
 
 	e := env.NewEnv()
 
@@ -134,7 +134,7 @@ func Example_vmEnv() {
 }
 
 func Example_vmHelloWorld() {
-	// "github.com/surdeus/goscript/env"
+	// "github.com/mojosa-software/goscript/env"
 
 	e := env.NewEnv()
 
@@ -156,7 +156,7 @@ println("Hello World :)")
 }
 
 func Example_vmQuickStart() {
-	// "github.com/surdeus/goscript/env"
+	// "github.com/mojosa-software/goscript/env"
 
 	e := env.NewEnv()
 

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/surdeus/goscript/ast"
+	"github.com/mojosa-software/goscript/ast"
 )
 
 // WalkFunc is used in Walk to walk the AST

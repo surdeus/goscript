@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/surdeus/goscript/env"
-	"github.com/surdeus/goscript/parser"
+	"github.com/mojosa-software/goscript/env"
+	"github.com/mojosa-software/goscript/parser"
 )
 
 type (

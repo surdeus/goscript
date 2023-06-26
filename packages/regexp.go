@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"regexp"
 
-	"github.com/surdeus/goscript/env"
+	"github.com/mojosa-software/goscript/env"
 )
 
 func init() {

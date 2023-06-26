@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/surdeus/goscript/env"
-	"github.com/surdeus/goscript/parser"
+	"github.com/mojosa-software/goscript/env"
+	"github.com/mojosa-software/goscript/parser"
 )
 
 func TestSlices(t *testing.T) {

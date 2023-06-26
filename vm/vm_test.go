@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/surdeus/goscript/ast"
-	"github.com/surdeus/goscript/env"
+	"github.com/mojosa-software/goscript/ast"
+	"github.com/mojosa-software/goscript/env"
 )
 
 func TestNumbers(t *testing.T) {

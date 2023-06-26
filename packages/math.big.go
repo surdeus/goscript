@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/surdeus/goscript/env"
+	"github.com/mojosa-software/goscript/env"
 )
 
 func init() {
@@ -16,7 +16,7 @@ func init() {
 		"Jacobi":       reflect.ValueOf(big.Jacobi),
 		"MaxBase":      reflect.ValueOf(big.MaxBase),
 		"MaxExp":       reflect.ValueOf(big.MaxExp),
-		// TODO: https://github.com/surdeus/goscript/issues/49
+		// TODO: https://github.com/mojosa-software/goscript/issues/49
 		// "MaxPrec":       reflect.ValueOf(big.MaxPrec),
 		"MinExp":        reflect.ValueOf(big.MinExp),
 		"NewFloat":      reflect.ValueOf(big.NewFloat),

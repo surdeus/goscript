@@ -1,9 +1,9 @@
 # Anko
 
-[![GoDoc Reference](https://godoc.org/github.com/surdeus/goscript/vm?status.svg)](http://godoc.org/github.com/surdeus/goscript/vm)
+[![GoDoc Reference](https://godoc.org/github.com/mojosa-software/goscript/vm?status.svg)](http://godoc.org/github.com/mojosa-software/goscript/vm)
 [![Build Status](https://travis-ci.org/mattn/anko.svg?branch=master)](https://travis-ci.org/mattn/anko)
 [![Financial Contributors on Open Collective](https://opencollective.com/mattn-anko/all/badge.svg?label=financial+contributors)](https://opencollective.com/mattn-anko) [![Coverage](https://codecov.io/gh/mattn/anko/branch/master/graph/badge.svg)](https://codecov.io/gh/mattn/anko)
-[![Go Report Card](https://goreportcard.com/badge/github.com/surdeus/goscript)](https://goreportcard.com/report/github.com/surdeus/goscript)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mojosa-software/goscript)](https://goreportcard.com/report/github.com/mojosa-software/goscript)
 
 Anko is a scriptable interpreter written in Go.
 
@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/surdeus/goscript/env"
-	"github.com/surdeus/goscript/vm"
+	"github.com/mojosa-software/goscript/env"
+	"github.com/mojosa-software/goscript/vm"
 )
 
 func main() {
@@ -48,15 +48,15 @@ println("Hello World :)")
 
 More examples are located in the GoDoc:
 
-https://godoc.org/github.com/surdeus/goscript/vm
+https://godoc.org/github.com/mojosa-software/goscript/vm
 
 
 ## Usage Example - Command Line
 
 ### Building
 ```
-go get github.com/surdeus/goscript
-go install github.com/surdeus/goscript
+go get github.com/mojosa-software/goscript
+go install github.com/mojosa-software/goscript
 ```
 
 ### Running an Anko script file named script.ank
@@ -129,7 +129,7 @@ Yasuhiro Matsumoto (a.k.a mattn)
 ### Code Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/surdeus/goscript/graphs/contributors"><img src="https://opencollective.com/mattn-anko/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/mojosa-software/goscript/graphs/contributors"><img src="https://opencollective.com/mattn-anko/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 

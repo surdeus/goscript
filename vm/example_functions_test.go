@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/surdeus/goscript/env"
-	"github.com/surdeus/goscript/vm"
+	"github.com/mojosa-software/goscript/env"
+	"github.com/mojosa-software/goscript/vm"
 )
 
 func Example_vmFunctions() {

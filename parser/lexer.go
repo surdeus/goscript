@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/surdeus/goscript/ast"
+	"github.com/mojosa-software/goscript/ast"
 )
 
 const (

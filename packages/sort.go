@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/surdeus/goscript/env"
+	"github.com/mojosa-software/goscript/env"
 )
 
 // SortFuncsStruct provides functions to be used with Sort
